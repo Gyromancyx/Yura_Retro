@@ -1,0 +1,34 @@
+﻿name: Yura JP Retro
+image: Yuraretro_icon.png
+portrait: Yuraretro_fullthin.png
+text_file_encoding: shift_jis
+portrait_opacity: 0.67
+author: Gyromancy
+web: twitter.com/gyromancyx |   gyromancy.wixsite.com
+version: Gyrophare
+subbanks:
+- color: ""
+  prefix: ""
+  suffix: _G
+  tone_ranges:
+  - C5-B7
+- color: ""
+  prefix: ""
+  suffix: _F
+  tone_ranges:
+  - G4-B4
+- color: ""
+  prefix: ""
+  suffix: _Cs
+  tone_ranges:
+  - D#4-F#4
+- color: ""
+  prefix: ""
+  suffix: ""
+  tone_ranges:
+  - A#3-D4
+- color: ""
+  prefix: ""
+  suffix: _A
+  tone_ranges:
+  - C1-A3
